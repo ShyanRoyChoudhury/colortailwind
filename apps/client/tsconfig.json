@@ -23,9 +23,6 @@
     "paths": {
       "ui": [
         "../../packages/ui/src/index.tsx"
-      ],
-      "config": [
-        "../../packages/config/*"
       ]
     }
   },

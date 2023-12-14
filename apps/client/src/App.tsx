@@ -5,8 +5,8 @@ function App() {
   return (
     <div>
       <Signup/>
-      <div className="bg-red-500">
-        test-red
+      <div className="bg-[#059669]">
+        client - red
       </div>
       <PreviewCard />
     </div>
